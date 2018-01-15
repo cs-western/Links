@@ -12,4 +12,6 @@ https://developer.android.com/about/dashboards/index.html
 https://developer.android.com/reference/android/app/package-summary.html
 ## Android Studio Keyboard Shortcuts
 https://developer.android.com/studio/intro/keyboard-shortcuts.html
+## Material Design Icons
+https://material.io/icons/
 
