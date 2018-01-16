@@ -14,4 +14,7 @@ https://developer.android.com/reference/android/app/package-summary.html
 https://developer.android.com/studio/intro/keyboard-shortcuts.html
 ## Material Design Icons
 https://material.io/icons/
+## Simple Git Command Examples
+http://rogerdudler.github.io/git-guide/
+
 
