@@ -1,5 +1,5 @@
 # Links
-Essential Links for Android Development
+Useful Links for Android Development
 ## GitHub Classroom - Assignment Page
 https://classroom.github.com/classrooms/35178782-spring-2018-cs-375-android-development
 ## Android Studio System Requirements
