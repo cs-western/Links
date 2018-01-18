@@ -16,5 +16,8 @@ https://developer.android.com/studio/intro/keyboard-shortcuts.html
 https://material.io/icons/
 ## Simple Git Command Examples
 http://rogerdudler.github.io/git-guide/
+## Activity Implicit Actions
+https://tinyurl.com/n57qb5
+
 
 
