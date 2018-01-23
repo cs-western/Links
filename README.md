@@ -18,6 +18,8 @@ https://material.io/icons/
 http://rogerdudler.github.io/git-guide/
 ## Activity Implicit Actions
 https://tinyurl.com/n57qb5
+## What is 'Context' in Android
+https://www.youtube.com/watch?v=cak98tpiodg
 
 
 
