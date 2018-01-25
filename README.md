@@ -14,12 +14,12 @@ https://developer.android.com/reference/android/app/package-summary.html
 https://developer.android.com/studio/intro/keyboard-shortcuts.html
 ## Material Design Icons
 https://material.io/icons/
-## Simple Git Command Examples
+## Simple Git Tutorial
 http://rogerdudler.github.io/git-guide/
 ## Activity Implicit Actions
 https://tinyurl.com/n57qb5
 ## What is 'Context' in Android
 https://www.youtube.com/watch?v=cak98tpiodg
-
-
+## Some Bash and Git Commands
+https://docs.google.com/document/d/1r1HT2u-Dg-1MUm7cejhr_yqndEGR5j8r5IY_Hv_CYqg/edit?usp=sharing
 
